@@ -1,0 +1,2 @@
+Ultraplan prompt content is unavailable in this local source snapshot.
+Provide a concise, practical implementation plan with clear milestones.
